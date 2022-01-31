@@ -20,3 +20,6 @@ collections:
     permalink: /branches/:path/
 
 repo_name: "This-should-be-overridden-by-github-actions-script"
+repo: ucsb-cs156-w22/TEMP-repo01
+owner: ucsb-cs156-w22
+repo_name: TEMP-repo01
